@@ -4,6 +4,6 @@
 
 <div align="center">
 
-## **SUITE Framework** - 간결하다, 간단하다.
+## **SUITE Fusion Framework** - 간결하다, 간단하다.
 
 </div>
