@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="./res/Fusion.png" width="400px">
+    <img src="./res/Fusion.png" width="200px">
 </div>
 
 <div align="center">
